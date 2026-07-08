@@ -1,4 +1,4 @@
-# FuseDepth
+# FuseDepth: Zero-Shot Metric Depth with Semantic--Geometric Fusion of Foundation Visual Priors
 
 This repository will host the code, configuration files, evaluation scripts, and reproduction instructions for the manuscript:
 
